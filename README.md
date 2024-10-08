@@ -3,8 +3,6 @@
 Welcome to **Tetris Pygame Edition**! This project is a simple implementation of the classic Tetris game, made using the `Pygame` library. Get ready to rotate, stack, and clear rows of blocks in this colorful and exciting game! 🧱🎉
 Also served as my 11th class final project. I lost my original code as my school account was deleted so I remade this from scratch with some improved features.
 
-![Tetris Gameplay](https://imgur.com/a/osN3uU4) 
-
 ## 🕹️ Features
 - 🎨 **Colorful Tetrominoes**: Fall and rotate your favorite tetrominoes in various vibrant colors!
 - 📈 **Score & Leveling**: Earn points by clearing rows and level up as you progress!
