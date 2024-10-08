@@ -47,8 +47,8 @@ Also served as my 11th class final project. I lost my original code as my school
 
 ## 🎶 Sounds & Music Credits
 - 🎵 [Korobeiniki (Tetris theme)](https://commons.wikimedia.org/wiki/File:Korobe%C3%AFniki_music_sample.ogg) by Maxime Lorant is licensed under [Creative Commons Attribution](https://creativecommons.org/share-your-work/cclicenses/).
-- 🎧 Ping Sound from Pixabay (royalty-free music).
-- 🎧 Tetris Sound Effect by Liecio (royalty-free music).
+- 🎧 [Ping Sound](https://pixabay.com/sound-effects/search/ping/#:~:text=Royalty-free%20ping%20Sound%20Effects.%20Royalty-free%20No%20attribution%20required) from Pixabay (royalty-free music).
+- 🎧 [Tetris Sound](https://pixabay.com/sound-effects/search/tetris%20/#:~:text=Royalty-free%20tetris%20Sound%20Effects.%20Royalty-free%20No%20attribution%20required) Effect by Liecio (royalty-free music).
 
 ## 🧑‍💻 Developer Credits
 Developed with ❤️ using Python and Pygame.
