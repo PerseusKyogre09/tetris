@@ -41,11 +41,11 @@ TETROMINOES = [
 
 FONT = pygame.font.SysFont('comicsans', 30)
 
-pygame.mixer.music.load('Assets/music.mp3')
+pygame.mixer.music.load('music.mp3')
 pygame.mixer.music.play(-1)
 pygame.mixer.music.set_volume(5.0)
-rotate_sound = pygame.mixer.Sound('Assets/rotate.mp3')
-lock_sound = pygame.mixer.Sound('Assets/lock.mp3')
+rotate_sound = pygame.mixer.Sound('rotate.mp3')
+lock_sound = pygame.mixer.Sound('lock.mp3')
 
 # File to store the high score
 HIGHSCORE_FILE = "highscore.txt"
