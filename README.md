@@ -46,7 +46,7 @@ Also served as my 11th class final project. I lost my original code as my school
 - Level increases after every 100 points!
 
 ## 🎶 Sounds & Music Credits
-- 🎵 Korobeiniki (Tetris theme) by Maxime Lorant is licensed under [Creative Commons Attribution](https://creativecommons.org/share-your-work/cclicenses/).
+- 🎵 [Korobeiniki (Tetris theme)](https://commons.wikimedia.org/wiki/File:Korobe%C3%AFniki_music_sample.ogg) by Maxime Lorant is licensed under [Creative Commons Attribution](https://creativecommons.org/share-your-work/cclicenses/).
 - 🎧 Ping Sound from Pixabay (royalty-free music).
 - 🎧 Tetris Sound Effect by Liecio (royalty-free music).
 
